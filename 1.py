@@ -1,0 +1,10 @@
+#printing my name
+print("pradeepkumar")
+print("20+20")
+print(200+20)     
+print(200-20)
+print(88/2)
+print(44//2)
+print(2%11)
+print(10%2)
+print(31%2)
